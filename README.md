@@ -12,11 +12,11 @@ Usage: ./email.pl --to|-t TO[,TO]<br>
   [--subject|-s "SUBJECT"]</br>
   [--body|-b "BODY"]</br>
   [--attachment|-a "/PATH/TO/ATTACHMENT.TXT"]</br>
-  [--host|-h SMTP-HOST] (e.g. smtp.domain.local, 192.168.1.2, MAIL)</br>
+  [--host|-h SMTP-HOST] (e.g. smtp.domain.lan, 192.168.1.2, MAIL)</br>
   [--port|-p SMTP-PORT] (e.g. 25, 587)</br>
   [--username|-u SMTP-USERNAME]</br>
   [--password|-x SMTP-PASSWORD]</br>
-  [--ehlodomain|-e SMTP-EHLO-DOMAIN] (e.g. domain.local)</br>
+  [--ehlodomain|-e SMTP-EHLO-DOMAIN] (e.g. domain.lan)</br>
   [--debug|-d] (Debug)</br>
   [--logging|-l] (Log To Syslog)</br>
   [--exitonerror] (Exit immediately if the script encounters an error. If the error is not fatal, the script will try to continue)</br>
