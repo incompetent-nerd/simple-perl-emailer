@@ -118,7 +118,7 @@ my $ATTACHMENT_PATH_REGEX = qr/^(?=.{1,253}$)((\.\.\/|[a-zA-Z0-9_\/\-\\])*\.[a-z
 sub show_usage
 {
 print "Example: $0 -t NOC\@local.lan --cc admin\@local.lan -f server2\@local.lan -h smtp.local.lan -p 25 --s \"Status\" --b \"Done\"
-*NOTE* Any of the below variables can be configured as defaults within the script.
+*NOTE* Most of the below variables can be configured as defaults within the script.
 
 Usage: $0 --to|-t TO[,TO]
   [--from|-f FROM]
