@@ -1,11 +1,10 @@
 Simple Perl Emailer.</br>
 </br>
 This script was created out of necessity.</br>
-I needed to send SMTP email from a server but could not add Perl modules to the system, I was forced to use only the existing Perl</br>
-modules on the system. I was unable to find any email scripts that would work with the limited subset of modules I had.</br>
+A production server needed to be able to send SMTP emails and I was unable to find any email scripts that would work with the limited subset of modules the server had.</br>
 If you have the ability to install additional Perl modules, I recommend you find a better script.</br>
 </br>
-Please send bug reports, corrections and stinging insults to author: incompetent.nerd@gmail.com</br>
+Please send bug reports, corrections and stinging insults to author: incompetent.nerd(at)gmail.com</br>
 </br>
 Usage: ./email.pl --to|-t TO[,TO]<br>
   [--from|-f FROM]<br>
