@@ -1,7 +1,7 @@
 Simple Perl Emailer.</br>
 </br>
 This script was created out of necessity.</br>
-A production server needed to be able to send SMTP emails and I was unable to find any email scripts that would work with the limited subset of modules the server had.</br>
+A production server needed to be able to send SMTP emails and I was unable to find any email scripts that would work with the limited subset of Perl modules the server had.</br>
 If you have the ability to install additional Perl modules, I recommend you find a better script.</br>
 </br>
 Please send bug reports, corrections and stinging insults to author: incompetent.nerd(at)gmail.com</br>
