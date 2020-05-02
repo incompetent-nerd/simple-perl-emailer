@@ -23,4 +23,4 @@ Usage: ./email.pl --to|-t TO[,TO]<br>
   [--help] (help)</br>
   Example: email.pl -t NOC@local.lan --cc admin@local.lan -f server2@local.lan -h smtp.local.lan -p 25 --s "Status" --b "Done"</br>
   </br>
-  *NOTE* Any of the above variables can be configured as defaults within the script.</br>
+  *NOTE* Most of the above variables can be configured as defaults within the script.</br>
